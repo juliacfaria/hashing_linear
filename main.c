@@ -4,7 +4,6 @@
 #include "TAD/Hash.h"
 
 #define M 5 // tamanho do meu vetor
-#define N 15
 #define TAMPESO 50
 
 int main(){
